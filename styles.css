@@ -21,10 +21,6 @@ body {
     background-color: var(--clr-neu-light-gray);
 }
 
-body > h1 {
-    display: none;
-}
-
 .component {
     width: 90%;
     margin: 0 auto;
@@ -76,14 +72,6 @@ body > h1 {
     color: var(--clr-neu-light-gray);
 }
 
-
-
-
-
-
-
-
-
 /* VEHICLE BACKGROUNDS */
 .sedan {
     background-color: var(--clr-primary-bright-orange);
@@ -123,7 +111,7 @@ body > h1 {
 
 }
 
-.attribution {
+footer > .attribution {
     margin-bottom: 2rem;
 }
 
