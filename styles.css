@@ -17,6 +17,10 @@
     margin: 0;
 }
 
+body {
+    background-color: var(--clr-neu-light-gray);
+}
+
 body > h1 {
     display: none;
 }
